@@ -2,7 +2,7 @@
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhish127&show_icons=true&)
 
-![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=abhish127&hide_border=true)
+[![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhish127&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=abhish127)
 

@@ -1,4 +1,4 @@
-### hello there 👋
+### hey there 👋
 
 how do you fix these stats though lmao
 

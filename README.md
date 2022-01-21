@@ -4,7 +4,7 @@ how do you fix these stats though lmao
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhish127&theme=blueberry)
 
-![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=blueberry&user=abhish127&hide_border=true)
+![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=blueberry&user=abhish127)
 
 ![](https://komarev.com/ghpvc/?username=abhish127)
 

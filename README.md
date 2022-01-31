@@ -1,6 +1,5 @@
 ### hey there 👋
 
-how do you fix these stats though lmao
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhish127&theme=blueberry)
 

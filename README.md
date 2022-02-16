@@ -1,4 +1,6 @@
 ### hey there 👋
+-----------------
+I'm Abhishek, a 10th grader at Lynbrook High School. 
 
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhish127&theme=blueberry)

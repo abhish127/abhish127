@@ -6,8 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=abhish127)
 
-# I'm Abhishek, a 10th grader and amateur developer at Lynbrook High School. Some of my interests include coding, biology, and aeronautics. 
-# Feel free to check out my profile for some projects that I'm working on!
+#About Me
+I'm Abhishek, a 10th grader and amateur developer at Lynbrook High School. Some of my interests include coding, biology, and aeronautics. 
+Feel free to check out my profile for some projects that I'm working on!
 
 
 <!--

@@ -1,5 +1,4 @@
 ## hey there 👋
------------------
 I'm Abhishek, a 10th grader at Lynbrook High School. Some of my interests include coding, biology, and aeronautics. 
 Feel free to check out my profile for some projects that I'm working on!
 

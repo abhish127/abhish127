@@ -10,10 +10,11 @@
 I'm Abhishek, a 10th grader and amateur developer at Lynbrook High School. Some fields that I am interested in include coding, biology, and aeronautics. 
 Feel free to check out my profile for some projects that I'm working on!
 
+<!-- *UNCOMMENT THIS LATER*
 ## Projects
 * Website (WIP)
 * Discord Bot (WIP)
-
+-->
 
 <!--
 **abhish127/abhish127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

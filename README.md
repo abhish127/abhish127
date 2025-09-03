@@ -1,6 +1,9 @@
 ## About Me
 - Student at Case Western Reserve University majoring in Biomedical Engineering and minoring in Computer Science.
 
+## Languages
+- Python, MATLAB, Java
+
 <!-- *UNCOMMENT THIS LATER*
 ## Projects
 * Website (WIP)

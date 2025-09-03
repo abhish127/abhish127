@@ -1,5 +1,5 @@
 ## About Me
-- Student at Case Western Reserve University studying Biomedical Engineering and Computer Science. Interests in product research and development, biotech, data analytics, and neurotechnology.
+- Student at Case Western Reserve University studying Biomedical Engineering and Computer Science. Interests include product research and development, biotech, data analytics, and neurotechnology.
 
 
 <!-- *UNCOMMENT THIS LATER*
